@@ -2,7 +2,8 @@ var _ = require('lodash');
 
 var names = [
   'content',
-  'fullpath'
+  'fullpath',
+  'permalink'
 ];
 
 function create(handlebars, opts) {
