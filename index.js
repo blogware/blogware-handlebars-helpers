@@ -1,6 +1,8 @@
 var _ = require('lodash');
 
-var names = [];
+var names = [
+  'content'
+];
 
 module.exports = function(handlebars, opts) {
   var helpers = {};
