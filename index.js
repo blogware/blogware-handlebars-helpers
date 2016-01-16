@@ -2,6 +2,7 @@ var _ = require('lodash');
 
 var names = [
   'content',
+  'datetime',
   'fullpath',
   'permalink'
 ];
