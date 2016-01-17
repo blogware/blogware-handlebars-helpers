@@ -5,6 +5,7 @@ var names = [
   'datetime',
   'excerpt',
   'fullpath',
+  'loop',
   'permalink'
 ];
 
