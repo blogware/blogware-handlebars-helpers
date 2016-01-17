@@ -3,6 +3,7 @@ var _ = require('lodash');
 var names = [
   'content',
   'datetime',
+  'excerpt',
   'fullpath',
   'permalink'
 ];

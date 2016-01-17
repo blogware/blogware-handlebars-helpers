@@ -2,6 +2,7 @@
   "name": "blogware-handlebars-helpers",
   "version": "0.0.1",
   "dependencies": {
+    "html-to-text": "^1.5.1",
     "lodash": "^4.0.0",
     "moment": "^2.11.1"
   }
