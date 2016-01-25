@@ -6,7 +6,8 @@ var names = [
   'excerpt',
   'fullpath',
   'loop',
-  'permalink'
+  'permalink',
+  'range'
 ];
 
 function create(handlebars, opts) {
