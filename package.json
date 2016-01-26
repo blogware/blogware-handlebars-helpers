@@ -1,6 +1,9 @@
 {
   "name": "blogware-handlebars-helpers",
   "version": "0.0.2",
+  "repository": {
+    "url": "https://github.com/blogware/blogware-handlebars-helpers"
+  },
   "dependencies": {
     "html-to-text": "^1.5.1",
     "lodash": "^4.0.0",
