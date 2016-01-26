@@ -1,9 +1,11 @@
 var _ = require('lodash');
 
 var names = [
+  'block',
   'content',
   'datetime',
   'excerpt',
+  'extend',
   'fullpath',
   'loop',
   'permalink',
