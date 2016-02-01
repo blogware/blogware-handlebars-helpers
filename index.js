@@ -9,7 +9,8 @@ var names = [
   'fullpath',
   'loop',
   'permalink',
-  'range'
+  'range',
+  'tags'
 ];
 
 function create(handlebars, opts) {
