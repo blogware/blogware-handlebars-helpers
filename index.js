@@ -10,7 +10,8 @@ var names = [
   'loop',
   'permalink',
   'range',
-  'tags'
+  'taglink',
+  'taglinks'
 ];
 
 function create(handlebars, opts) {
